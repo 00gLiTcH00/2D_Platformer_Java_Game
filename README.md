@@ -12,3 +12,4 @@ ESC - pause |
 LIGHT ATTACK - 1 hp |
 HEAVY ATTACK - 3 hp
 - The options button does not work :)
+- All the assets used are from: https://anokolisa.itch.io/high-forest-assets-pack/devlog/398014/high-forest-new-update and https://www.kaaringaming.com/
